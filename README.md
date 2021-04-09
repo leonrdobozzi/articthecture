@@ -1,9 +1,9 @@
 # ART/ithecture
 
 ## TECNOLOGIAS USADAS
--React.js
--Styled Components
--Framer Motion
+-React.js <br>
+-Styled Components <br>
+-Framer Motion <br>
 
 ## PARA FAZER O DOWNLOAD DAS DEPENDENCIAS DO PROJETO
 
